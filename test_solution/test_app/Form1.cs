@@ -20,6 +20,7 @@ namespace test_app
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World  hotfix!" );
+            MessageBox.Show("i'm the hotfix!");
         }
     }
 }
