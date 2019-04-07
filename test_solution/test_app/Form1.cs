@@ -24,6 +24,7 @@ namespace test_app
             MessageBox.Show("i'm the hotfix");
             MessageBox.Show("modify at github(server)");
             MessageBox.Show("im local~");
+            MessageBox.Show("pull test");
         }
     }
 }
