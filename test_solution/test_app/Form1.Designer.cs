@@ -1,4 +1,4 @@
-﻿namespace app2
+﻿namespace test_app
 {
     partial class Form1
     {

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace app2
+namespace test_app
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace app2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-        
+            MessageBox.Show("Hello World");
         }
     }
 }
