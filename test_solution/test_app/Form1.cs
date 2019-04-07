@@ -22,6 +22,7 @@ namespace test_app
             MessageBox.Show("Hello World  hotfix!" );
             MessageBox.Show("i'm the master!");
             MessageBox.Show("i'm the hotfix");
+            MessageBox.Show("modify at github(server)");
             MessageBox.Show("im local~");
         }
     }
